@@ -1,4 +1,4 @@
-FROM node:22.17.0
+FROM node:22.18.0
 
 # Install Claude Code and PM2 globally
 RUN npm install -g @anthropic-ai/claude-code pm2
