@@ -14,7 +14,7 @@
 	},
 	"dependencies": {
 		"@anthropic-ai/claude-code": "^1.0.38",
-		"@daytonaio/sdk": "^0.21.5",
+		"@daytonaio/sdk": "^0.22.1",
 		"@radix-ui/react-dialog": "^1.1.14",
 		"@radix-ui/react-separator": "^1.1.7",
 		"@radix-ui/react-slot": "^1.2.3",
